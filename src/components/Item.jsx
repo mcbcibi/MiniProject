@@ -22,9 +22,6 @@ function Item() {
           <Contentbox />
           <Contentbox />
           <Contentbox />
-          <Contentbox />
-          <Contentbox />
-          <Contentbox />
         </div>
       </div>
     </section>
